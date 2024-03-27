@@ -24,6 +24,9 @@
 
 ;;; Commentary:
 
+;;   ARCHIVE! This project has now moved to
+;;   https://gitlab.com/grinn.amy/boxy.git
+
 ;;   Boxy provides an interface to create a 3D representation of
 ;;   boxes.  Each box has a relationship with one other box.  Multiple
 ;;   boxes can be related to one box.  The relationship can be any of
